@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routervync",
+        "uuid": 452760,
+        "checksum": "5omusv"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
